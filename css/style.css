@@ -1,0 +1,51 @@
+body{
+    font-family: arial, sans-serif ;
+    color: darkslategray;
+    font-size: 17px;
+}
+h1{
+    text-align: center;
+    font-family: arial, sans-serif ;
+    color: darkslateblue;
+    font-size: 30px;
+}
+
+h2{
+    font-family: arial, sans-serif ;
+    color: darkblue;
+    font-size: 24px;
+    background-color: lightskyblue
+}
+h2 a:link, h2 a:visited{
+    color:lightskyblue;
+    text-decoration: none;
+}
+h2:hover a{
+color: darkblue;
+}
+ul{
+    list-style-type: disc;
+}
+ul a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color:darkblue;
+}
+
+a:visited{
+    text-decoration: none;
+    color:darkblue;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#copyright{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
