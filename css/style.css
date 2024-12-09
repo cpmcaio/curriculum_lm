@@ -1,3 +1,16 @@
+.material-icons{
+    font-size: 1rem;
+    line-height: 1,5rem;
+}
+p{
+    line-height: 1,5rem;
+}
+.audiowide-regular {
+    font-family: "Audiowide", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 body{
     font-family: arial, sans-serif ;
     color: darkslategray;
@@ -8,13 +21,15 @@ h1{
     font-family: arial, sans-serif ;
     color: darkslateblue;
     font-size: 30px;
+    font-family: "Audiowide"
 }
 
 h2{
     font-family: arial, sans-serif ;
     color: darkblue;
     font-size: 24px;
-    background-color: lightskyblue
+    background-color: lightskyblue;
+    border-radius: 5px;
 }
 h2 a:link, h2 a:visited{
     color:lightskyblue;
